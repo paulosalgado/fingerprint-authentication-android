@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Fingerprint Auth</string>
+
+    <string name="toast_fingerprint_unavailable">Impressão digital indisponível.</string>
+
+    <string name="dialog_fingerprint_title">Autenticação via Leitor de Digital</string>
+    <string name="dialog_fingerprint_content">Autentique com sua digital</string>
+    <string name="dialog_fingerprint_cancel">Cancelar</string>
+
+    <string name="action_settings">Configurações</string>
+
+</resources>
