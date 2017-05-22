@@ -24,7 +24,7 @@
             android:layout_height="40dp"
             android:layout_below="@+id/fingerprint_description"
             android:layout_marginTop="20dp"
-            android:src="@drawable/ic_fp_40px" />
+            android:src="@drawable/ic_fp_google" />
 
         <TextView
             android:id="@+id/fingerprint_status"

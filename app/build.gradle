@@ -6,7 +6,7 @@ android {
     buildToolsVersion "25.0.3"
 
     defaultConfig {
-        applicationId "br.com.testes.fingerprint_authentication_tests"
+        applicationId "br.com.testes.fingerprintauthentication"
         minSdkVersion 23
         targetSdkVersion 25
         versionCode 1
