@@ -1,4 +1,4 @@
-package br.com.testes.fingerprintauthentication.security;
+package com.paulosalgado.fingerprintauthentication.security;
 
 import android.Manifest;
 import android.app.Dialog;
@@ -9,7 +9,7 @@ import android.os.CancellationSignal;
 import android.support.v4.app.ActivityCompat;
 import android.widget.Toast;
 
-import br.com.testes.fingerprint_authentication_tests.R;
+import com.paulosalgado.fingerprintauthentication.R;
 
 /**
  * Created by Paulo on 22/05/2017.

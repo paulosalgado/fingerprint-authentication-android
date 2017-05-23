@@ -1,4 +1,4 @@
-package br.com.testes.fingerprintauthentication.security;
+package com.paulosalgado.fingerprintauthentication.security;
 
 import android.security.keystore.KeyGenParameterSpec;
 import android.security.keystore.KeyPermanentlyInvalidatedException;

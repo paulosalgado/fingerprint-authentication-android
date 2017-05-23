@@ -1,4 +1,4 @@
-package br.com.testes.fingerprintauthentication;
+package com.paulosalgado.fingerprintauthentication;
 
 import android.Manifest;
 import android.app.AlertDialog;
@@ -14,9 +14,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
-import br.com.testes.fingerprint_authentication_tests.R;
-import br.com.testes.fingerprintauthentication.security.AndroidKeystoreManager;
-import br.com.testes.fingerprintauthentication.security.FingerprintHandler;
+import com.paulosalgado.fingerprintauthentication.security.AndroidKeystoreManager;
+import com.paulosalgado.fingerprintauthentication.security.FingerprintHandler;
 
 public class MainActivity extends AppCompatActivity {
 
