@@ -3,5 +3,7 @@ language: android
 before_install:
  - chmod +x gradlew
  
-licenses:
-    - 'android-sdk-+'
+android:
+  components:
+    - tools
+    - build-tools-25.0.3
